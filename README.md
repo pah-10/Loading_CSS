@@ -3,4 +3,4 @@
 ![CARREGANDO.GIF](https://github.com/pah-10/Loading_CSS/blob/main/carregando.gif)
 
 
-[Clique aqui](https://loading-1.pah10.repl.co/) para acessar o projeto.
+[Clique aqui](https://pah-10.github.io/Loading_CSS/) para acessar o projeto.
